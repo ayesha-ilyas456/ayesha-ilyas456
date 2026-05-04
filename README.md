@@ -83,7 +83,7 @@
 
 - **ElectroMix**  
   Dynamic e-commerce with cart & payment integration  
-  🔗 https://electomix.com  
+  🔗 https://electomix.com/
 
 - **Horizon PK**  
   Corporate website with CMS & SEO optimization  
@@ -111,9 +111,10 @@
 
 ## 💼 Professional Experience
 
+
 ### **Full Stack PHP Developer**  
 🏢 *Salaar Software Technology Park, Lahore*  
-📅 *April 2024 – Present*
+📅 * 2025 – Present*
 
 - ✨ Developed & maintained **11+ production websites** using Core PHP, Laravel & Yii2  
 - ⚡ Optimized **MySQL database schemas** → achieved **30% performance improvement**  
