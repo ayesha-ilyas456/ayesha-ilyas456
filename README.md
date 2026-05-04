@@ -64,27 +64,54 @@
 ## 🚀 Live Projects
 
 ### 🎓 Educational Management Systems
-| Project | Description | Live Link |
-|---------|-------------|-----------|
-| **IPE Education** | Learning management platform with course tracking | [🔗 ipe-education.com](https://ipe-education.com) |
-| **24 Hour Academy** | Online academy with enrollment & progress reporting | [🔗 24houracademy.com](https://24houracademy.com) |
-| **PMP Teachers** | Teacher portal with assignment & grading system | [🔗 pmpteachers.com](https://pmpteachers.com) |
+
+- **IPE Education**  
+  Learning management platform with course tracking  
+  🔗 https://ipe-education.com  
+
+- **24 Hour Academy**  
+  Online academy with enrollment & progress reporting  
+  🔗 https://24hour.academy  
+
+- **PMP Teachers**  
+  Teacher portal with assignment & grading system  
+  🔗 https://pmpteacher.com  
+
+---
 
 ### 🛒 E-Commerce & Business
-| Project | Description | Live Link |
-|---------|-------------|-----------|
-| **ElectroMix** | Dynamic e-commerce with cart & payment integration | [🔗 electromix.com](https://electromix.com) |
-| **StyleExcel** | Fashion e-commerce platform with product catalog | [🔗 styleexcel.com](https://styleexcel.com) |
-| **Horizon PK** | Corporate website with CMS & SEO optimization | [🔗 horizonpk.com](https://horizonpk.com) |
-| **Fortray** | Non-profit platform with donation management | [🔗 fortray.org](https://fortray.org) |
+
+- **ElectroMix**  
+  Dynamic e-commerce with cart & payment integration  
+  🔗 https://electomix.com  
+
+- **Horizon PK**  
+  Corporate website with CMS & SEO optimization  
+  🔗 https://www.horizonpk.com  
+
+---
 
 ### 🏨 Hospitality & Services
-| Project | Description | Live Link |
-|---------|-------------|-----------|
-| **The Majestic Hotel** | Booking system with real-time availability | [🔗 themajestichotel.com](https://themajestichotel.com) |
-| **Lifeline Welfare** | Charity platform with volunteer coordination | [🔗 lifelinewelfare.com](https://lifelinewelfare.com) |
-| **GED America** | Educational certification portal | [🔗 gedamerica.com](https://gedamerica.com) |
-| **CBT Guro** | Online testing & examination platform | [🔗 cbtguro.com](https://cbtguro.com) |
+
+- **Lifeline Welfare**  
+  Charity platform with volunteer coordination  
+  🔗 https://lifelinewelfare.com  
+
+- **GED America**  
+  Educational certification portal  
+  🔗 https://gedamerica.com  
+
+- **CBT Guro**  
+  Online testing & examination platform  
+  🔗 https://cbtguro.com  
+
+---
+
+### 🏢 Company
+
+- **SalaarTech**  
+  Software development company  
+  🔗 https://www.salaartech.com  |
 
 > 💡 *All projects feature: ✅ Responsive Design ✅ MySQL Optimization ✅ Secure Authentication ✅ API Integration*
 
