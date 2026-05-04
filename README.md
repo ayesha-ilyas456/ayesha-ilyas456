@@ -103,9 +103,9 @@
 
 - **SalaarTech**  
   Software development company  
-  🔗 https://www.salaartech.com  |
+  🔗 https://www.salaartech.com  
 
-> 💡 *All projects feature: ✅ Responsive Design ✅ MySQL Optimization ✅ Secure Authentication ✅ API Integration*
+💡 *All projects feature: ✅ Responsive Design ✅ MySQL Optimization ✅ Secure Authentication ✅ API Integration*
 
 ---
 
@@ -138,7 +138,7 @@
 - 🤖 **Vibe Coding Course** – Google  
 - 📊 **AI & Machine Learning** – NAVTTC
 
-  ---  
+---  
 ## 📫 Connect With Me
 
 <p align="center">
