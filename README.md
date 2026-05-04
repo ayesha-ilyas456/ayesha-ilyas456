@@ -130,18 +130,6 @@
   🏫 NCBA&E University, Gulberg Campus, Lahore  
   📅 2021 – 2025
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshailyas&show_icons=true&theme=radical&count_private=true" alt="Ayesha's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshailyas&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshailyas&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
 ## 📜 Certifications
 
 - 🐍 **Python Crash Course for Data Science** – PNY Training  
@@ -157,13 +145,10 @@
   <a href="mailto:ayeshailyas2256@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://www.topcoder.com/members/54570" target="_blank">
-    <img src="https://img.shields.io/badge/TopCoder-29a7df?style=for-the-badge&logo=topcoder&logoColor=white" alt="topcoder"/>
-  </a>
-  <a href="https://linkedin.com/in/ayeshailyas" target="_blank">
+  <a href="https://www.linkedin.com/in/ayesha-ilyas-85a007317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://github.com/ayeshailyas" target="_blank">
+  <a href="https://github.com/ayesha-ilyas456" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
