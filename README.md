@@ -97,14 +97,6 @@
   Charity platform with volunteer coordination  
   🔗 https://lifelinewelfare.com  
 
-- **GED America**  
-  Educational certification portal  
-  🔗 https://gedamerica.com  
-
-- **CBT Guro**  
-  Online testing & examination platform  
-  🔗 https://cbtguro.com  
-
 ---
 
 ### 🏢 Company
