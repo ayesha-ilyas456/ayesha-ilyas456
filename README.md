@@ -142,11 +142,17 @@
 ---
 ## 📜 Certifications
 
-- 🐍 **Python Crash Course for Data Science** – PNY Training  
-- 🌐 **Web Development (PHP Laravel)** – Institute of Professional Excellence  
-- 🧠 **Soft Skills Training** – PSEB  
-- 🤖 **Vibe Coding Course** – Google  
-- 📊 **AI & Machine Learning** – NAVTTC
+-### **Certifications & Training**
+
+
+* 🌐 **Web Development (PHP Laravel)** – Institute of Professional Excellence
+*  🐍 **Python Crash Course for Data Science** – PNY Training
+*  📊 **AI & Machine Learning** – NAVTTC
+*  💻 **Digital Empowering IT** – PSDF
+* 🧠 **Soft Skills Training** – PSEB
+* 🤖 **Vibe Coding Course** – Google* 
+
+- 
 
 ---  
 ## 📫 Connect With Me
