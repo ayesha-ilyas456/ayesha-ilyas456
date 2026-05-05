@@ -111,6 +111,15 @@
 
 ## 💼 Professional Experience
 
+### **Data Analyst Intern**
+
+🏢 *Noah Technologies*
+📅 *Oct 2024 – Dec 2024 (3 Months)*
+
+* 📊 Analyzed datasets to extract insights and support business decisions
+* 📈 Created reports and visualizations using Excel and basic tools
+* 🧹 Performed data cleaning and preprocessing to ensure accuracy
+* 🤖 Assisted in maintaining data records and improving reporting workflows
 
 ### **Full Stack PHP Developer**  
 🏢 *Salaar Software Technology Park, Lahore*  
