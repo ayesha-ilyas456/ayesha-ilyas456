@@ -3,7 +3,6 @@
 ### 💻 Backend / Full Stack PHP Developer | Laravel & Yii2 | REST APIs | MySQL
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayesha-ilyas456&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/PHP-Developer-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Developer" />
   <img src="https://img.shields.io/badge/Laravel-Specialist-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Lahore-Pakistan-blue?style=flat" alt="Location" />
